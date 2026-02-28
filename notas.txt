@@ -3,3 +3,5 @@ Linea 2: BASE
 Linea 3: BASE
 H
 R1
+R2
+R3
